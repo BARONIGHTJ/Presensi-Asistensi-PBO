@@ -40,4 +40,4 @@ Tanggal Pelaksanaan : 15 Maret 2024
         Rapat Koordinasi Perubahan Proses Perkuliahan Minggu 6 (1-5 April 2024)
 <br/>
 
-#### [<<< Back](../README.md) &nbsp;&nbsp; || &nbsp;&nbsp; [Next >>>](../february-2024/README.md)
+#### [<<< Back](../README.md)  ||  [Next >>>](../february-2024/README.md)
