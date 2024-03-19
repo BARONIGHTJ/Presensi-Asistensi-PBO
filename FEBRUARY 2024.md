@@ -2,16 +2,34 @@
 
 ### 19 Februari 2024
 Presensi Kelas Teori :
-```Pertemuan 1 (T) - C - Pendahuluan```
+##
+        Pertemuan 1 (T) - C - Pendahuluan
 Presensi Kelas Praktikum :
-```Pertemuan 1 (P) - C - Asistensi Umum```
+##
+        Pertemuan 1 (P) - C - Asistensi Umum
 
 ### 20 Februari 2024
 Presensi Kelas Teori :
-```Pertemuan 1 (T) - A - Pendahuluan``` [Save to Clipboard](javascript;void(0))
-```Pertemuan 1 (T) - E - Pendahuluan```
-Presensi Kelas Praktikum :
-```Pertemuan 1 (P) - A - Asistensi Umum```
-
 ##
-        Pertemuan 1
+        Pertemuan 1 (T) - A - Pendahuluan
+##
+        Pertemuan 1 (T) - E - Pendahuluan
+Presensi Kelas Praktikum :
+##
+        Pertemuan 1 (P) - A - Asistensi Umum
+
+### 21 Februari 2024
+Presensi Kelas Teori :
+##
+        Pertemuan 1 (T) - B - Pendahuluan
+##
+        Pertemuan 1 (T) - D - Pendahuluan
+Presensi Kelas Praktikum :
+##
+        Pertemuan 1 (P) - D - Asistensi Umum
+
+### 23 Februari 2024
+Presensi Kelas Praktikum :
+##
+        Pertemuan 1 (P) - E - Asistensi Umum
+        Pertemuan 1 (P) - B - Asistensi Umum
