@@ -1,9 +1,3 @@
-## title {.tabset .tabset-fade}
-
-### tab february-2024
-
-tab content february-2024
-
 # REKAP PRESENSI ASISTENSI MATA KULIAH PEMROGRAMAN BERORIENTASI OBYEK
 
 ## Koordinator Asisten : Joesenchia Santoso Tan (210711175)

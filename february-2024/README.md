@@ -34,3 +34,11 @@ Presensi Kelas Praktikum :
         Pertemuan 1 (P) - E - Asistensi Umum
 ##
         Pertemuan 1 (P) - B - Asistensi Umum
+
+### 26 February 2024
+Presensi Kelas Teori :
+##
+        Pertemuan 2 (T) - C - Kelas & Objek
+Presensi Kelas Praktikum :
+##
+        Pertemuan 2 (P) - C - Pengenalan Tools
