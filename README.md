@@ -1,8 +1,9 @@
 # REKAP PRESENSI ASISTENSI MATA KULIAH PEMROGRAMAN BERORIENTASI OBYEK
 
-## Koordinator Asisten : Joesenchia Santoso Tan (210711175)
+## Koordinator Asisten
+#### Joesenchia Santoso Tan (210711175)
 
-## Anggota Asisten :
+## Anggota Asisten
 - Muhammad Michael Novsada Phasa (200710716)
 - I Kadek Dendy Pramartha (210711095)
 - Idelia Jonathan (210711105)
