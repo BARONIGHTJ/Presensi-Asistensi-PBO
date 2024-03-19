@@ -1,4 +1,5 @@
 # REKAP PRESENSI BULAN FEBRUARI 2024
+<br/>
 
 ### 19 Februari 2024
 Presensi Kelas Teori :
@@ -7,6 +8,7 @@ Presensi Kelas Teori :
 Presensi Kelas Praktikum :
 ##
         Pertemuan 1 (P) - C - Asistensi Umum
+<br/>
 
 ### 20 Februari 2024
 Presensi Kelas Teori :
@@ -17,6 +19,7 @@ Presensi Kelas Teori :
 Presensi Kelas Praktikum :
 ##
         Pertemuan 1 (P) - A - Asistensi Umum
+<br/>
 
 ### 21 Februari 2024
 Presensi Kelas Teori :
@@ -27,6 +30,7 @@ Presensi Kelas Teori :
 Presensi Kelas Praktikum :
 ##
         Pertemuan 1 (P) - D - Asistensi Umum
+<br/>
 
 ### 23 Februari 2024
 Presensi Kelas Praktikum :
@@ -34,6 +38,7 @@ Presensi Kelas Praktikum :
         Pertemuan 1 (P) - E - Asistensi Umum
 ##
         Pertemuan 1 (P) - B - Asistensi Umum
+<br/>
 
 ### 26 February 2024
 Presensi Kelas Teori :
@@ -42,3 +47,26 @@ Presensi Kelas Teori :
 Presensi Kelas Praktikum :
 ##
         Pertemuan 2 (P) - C - Pengenalan Tools
+<br/>
+
+### 27 Februari 2024
+Presensi Kelas Teori :
+##
+        Pertemuan 2 (T) - A - Kelas & Objek
+##
+        Pertemuan 2 (T) - E - Kelas & Objek
+Presensi Kelas Praktikum :
+##
+        Pertemuan 2 (P) - A - Pengenalan Tools
+<br/>
+
+### 28 februari 2024
+Presensi Kelas Teori :
+##
+        Pertemuan 2 (T) - B - Kelas & Objek
+##
+        Pertemuan 2 (T) - D - Kelas & Objek
+Presensi Kelas Praktikum :
+##
+        Pertemuan 2 (P) - D - Pengenalan Tools
+<br/>
