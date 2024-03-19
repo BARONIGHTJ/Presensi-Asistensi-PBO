@@ -8,7 +8,7 @@ Presensi Kelas Praktikum :
 
 ### 20 Februari 2024
 Presensi Kelas Teori :
-```Pertemuan 1 (T) - A - Pendahuluan```
+```Pertemuan 1 (T) - A - Pendahuluan``` [Save to Clipboard](javascript;void(0))
 ```Pertemuan 1 (T) - E - Pendahuluan```
 Presensi Kelas Praktikum :
 ```Pertemuan 1 (P) - A - Asistensi Umum```

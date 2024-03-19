@@ -2,7 +2,7 @@
 
 ## Koordinator Asisten : Joesenchia Santoso Tan (210711175)
 
-## Anggota Asistensi :
+## Anggota Asisten :
 - 
 - 
 - 
