@@ -13,4 +13,4 @@
 <p>Sebuah daftar sebagai pengingat asisten untuk segera melakukan absensi sekaligus menjadi riwayat absensi sepanjang satu semester</p>
 
 ## Link Rekap Presensi
-- [Bulan Februari 2024](FEBRUARY 2024)
+- [Bulan Februari 2024](february-2024)
