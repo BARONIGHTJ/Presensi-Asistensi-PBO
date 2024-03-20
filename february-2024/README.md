@@ -60,7 +60,7 @@ Presensi Kelas Praktikum :
         Pertemuan 2 (P) - A - Pengenalan Tools
 <br/>
 
-### 28 februari 2024
+### 28 Februari 2024
 Presensi Kelas Teori :
 ##
         Pertemuan 2 (T) - B - Kelas & Objek
