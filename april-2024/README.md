@@ -46,4 +46,4 @@ Presensi Kelas Praktikum :
 ##
         Pertemuan 7 (P) - A - Generic Class
 
-#### [<<< Back](../march-2024/README.md)  ||  [Next >>>](../README.md)
+#### [<<< Back](../march-2024/README.md)  ||  [Next >>>](../may-2024/README.md)
