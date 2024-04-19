@@ -46,4 +46,14 @@ Presensi Kelas Praktikum :
 ##
         Pertemuan 7 (P) - A - Generic Class
 
+### 17 April 2024
+Presensi Kelas Teori :
+##
+        Pertemuan 7 (T) - B - Generic Class
+##
+        Pertemuan 7 (T) - D - Generic Class
+Presensi Kelas Praktikum :
+##
+        Pertemuan 7 (P) - D - Relasi
+
 #### [<<< Back](../march-2024/README.md)  ||  [Next >>>](../may-2024/README.md)
