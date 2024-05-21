@@ -25,3 +25,5 @@
 - [Bulan Februari 2024](february-2024)
 - [Bulan Maret 2024](march-2024)
 - [Bulan April 2024](april-2024)
+- [Bulan Mei 2024](may-2024)
+- [Bulan Juni 2024](june-2024)
