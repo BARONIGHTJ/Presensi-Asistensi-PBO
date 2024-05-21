@@ -49,11 +49,26 @@ Presensi Kelas Praktikum :
 ### 17 April 2024
 Presensi Kelas Teori :
 ##
-        Pertemuan 7 (T) - B - Generic Class
+        Pertemuan 7 (T) - B - Exception Handling
 ##
-        Pertemuan 7 (T) - D - Generic Class
+        Pertemuan 7 (T) - D - Exception Handling
 Presensi Kelas Praktikum :
 ##
-        Pertemuan 7 (P) - D - Relasi
+        Pertemuan 7 (P) - D - Generic Class
+
+### 19 April 2024
+Presensi Kelas Praktikum :
+##
+        Pertemuan 7 (P) - E - Generic Class
+##
+        Pertemuan 7 (P) - B - Generic Class
+
+### 20 April 2024
+Presensi Kelas Teori :
+##
+        Pertemuan 7 (T) - C - Exception Handling
+Presensi Kelas Praktikum :
+##
+        Pertemuan 7 (P) - C - Generic Class
 
 #### [<<< Back](../march-2024/README.md)  ||  [Next >>>](../may-2024/README.md)
