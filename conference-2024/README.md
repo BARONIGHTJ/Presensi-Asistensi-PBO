@@ -40,4 +40,34 @@ Tanggal Pelaksanaan : 15 Maret 2024
         Rapat Koordinasi Perubahan Proses Perkuliahan Minggu 6 (1-5 April 2024)
 <br/>
 
+### Rapat Pembahasan Detail Mengenai Modul Object Persistence 1
+##### Notulensi
+<p>Topik pembahasan utama pada rapat ini merupakan pengambilan keputusan dari para asisten terkait pembuatan modul, <i>unguided</i>, dan tugas yang akan berkesinambungan dimulai dari modul Object Persistence 1.</p>
+
+Tanggal Pelaksanaan : 12 Mei 2024
+##### Presensi
+##
+        Rapat Pembahasan Detail Mengenai Modul Object Persistence 1
+<br/>
+
+### Rapat Koordinasi Penilaian Tugas Besar
+##### Notulensi
+<p>Topik pembahasan utama pada rapat ini merupakan pengambilan keputusan dari para asisten terkait penilaian tugas besar yang telah menjadi agenda tahunan pada mata kuliah Pemrograman Berorientasi Obyek.</p>
+
+Tanggal Pelaksanaan : 31 Mei 2024
+##### Presensi
+##
+        Rapat Koordinasi Penilaian Tugas Besar
+<br/>
+
+### Rapat Pembahasan Angket dan Evaluasi Akhir Asistensi
+##### Notulensi
+<p>Topik pembahasan utama pada rapat ini merupakan pengambilan keputusan dari para asisten terkait angket penilaian asisten oleh praktikan yang telah menjadi agenda tahunan pada akhir pembelajaran mata kuliah Pemrograman Berorientasi Obyek.</p>
+
+Tanggal Pelaksanaan : 20 Juni 2024
+##### Presensi
+##
+        Rapat Pembahasan Angket dan Evaluasi Akhir Asistensi
+<br/>
+
 #### [<<< Back](../README.md)  ||  [Next >>>](../february-2024/README.md)

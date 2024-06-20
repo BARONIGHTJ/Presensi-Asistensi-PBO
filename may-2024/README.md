@@ -71,4 +71,39 @@ Presensi Kelas Praktikum :
 ##
         Pertemuan 9 (P) - B - Object Persistence I
 
+### 27 Mei 2024
+Presensi Kelas Teori :
+##
+        Pertemuan 11 (T) - C - Perancangan Kelas
+Presensi Kelas Praktikum :
+##
+        Pertemuan 11 (P) - C - Object Persistence II
+
+### 28 Mei 2024
+Presensi Kelas Teori :
+##
+        Pertemuan 11 (T) - A - Perancangan Kelas
+##
+        Pertemuan 11 (T) - E - Perancangan Kelas
+Presensi Kelas Praktikum :
+##
+        Pertemuan 11 (P) - A - Object Persistence II
+
+### 29 Mei 2024
+Presensi Kelas Teori :
+##
+        Pertemuan 11 (T) - B - Perancangan Kelas
+##
+        Pertemuan 11 (T) - D - Perancangan Kelas
+Presensi Kelas Praktikum :
+##
+        Pertemuan 11 (P) - D - Object Persistence II
+
+### 31 Mei 2024
+Presensi Kelas Praktikum :
+##
+        Pertemuan 11 (P) - E - Object Persistence II
+##
+        Pertemuan 11 (P) - B - Object Persistence II
+
 #### [<<< Back](../april-2024/README.md)  ||  [Return](../README.md)
