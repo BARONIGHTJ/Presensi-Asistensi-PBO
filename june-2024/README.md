@@ -96,7 +96,7 @@ Presensi Kelas Praktikum :
 ##
         Pertemuan 14 (P) - B - Design Pattern II
 
-### 11 Juni 2024
+### 22 Juni 2024
 Presensi Kelas Teori :
 ##
         Pertemuan 14 (T) - A - Penilaian Tugas Besar
