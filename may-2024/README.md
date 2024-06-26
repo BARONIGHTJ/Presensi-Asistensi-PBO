@@ -106,4 +106,4 @@ Presensi Kelas Praktikum :
 ##
         Pertemuan 11 (P) - B - Object Persistence II
 
-#### [<<< Back](../april-2024/README.md)  ||  [Return](../README.md)
+#### [<<< Back](../april-2024/README.md)  ||  [Next >>>](../june-2024/README.md)
